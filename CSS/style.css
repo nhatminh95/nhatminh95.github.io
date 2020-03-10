@@ -1,0 +1,152 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.bao{
+	width: 1600px;
+	height: 1000px;
+	
+	margin: 0 auto;
+}/* CSS */
+
+.them{
+	width: 1600px;
+	height: 30px;
+}
+                                     /*tren*/
+.tren{
+	width: 1600px;
+	height: 100px;
+	
+	margin: 0 auto;
+	}
+
+.logo{width: 300px;
+	height: 100px;
+	
+	float: left;
+	}
+                                 /*MENU*/
+.menu{width: 1000px;
+	height: 100px;
+	
+	float: left;
+	}
+.thanhmenu{
+	list-style: none;
+	margin-left: 5px;
+}
+.thanhmenu li{
+	display: inline-block;
+	margin-left: 70px;
+	margin-top: 50px;
+	}
+.thanhmenu li a{
+	color: #333333;
+	text-decoration: none;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+.icon{width: 300px;
+	height: 100px;
+	
+	float: right;
+	}
+.icon img{
+	float: right;
+	
+}
+                                           /*than*/
+.than{
+	width: 1600px;
+	height: 870px;
+	
+}
+.hinh{
+	width: 800px;
+	height: 870px;
+	
+	float: left;
+}
+.noidung{
+	width: 800px;
+	height: 870px;
+	
+	float: right;
+}
+.them2{
+	width: 800px;
+	height: 170px;
+	
+}
+.title{
+	width: 800px;
+	height: 200px;
+	
+}
+.learnmore{
+	width: 800px;
+	height: 200px;
+	
+	}
+.learnmore img{
+	margin-top: 80px;
+}
+
+.khungbox{
+	width: 800px;
+	height: 300px;
+	
+}
+.khungbox a{
+	text-decoration: none;
+}
+                                 /*may cai boxxxxxxxxx*/
+.box2{
+	width: 230px;
+	height: 250px;
+	
+	float: left;
+	margin-left: 55px;
+	margin-top: 25px;
+}
+                          /* may cai trong box nho*/
+.box1{
+	width: 230px;
+	height: 250px;
+	
+	float: left;
+	
+	margin-top: 25px;
+}
+.box11{
+	height: 100px;
+	width: 100px;
+	
+	float: left;
+}
+.box12{
+	height: 100px;
+	width: 130px;
+
+	float: right;
+	
+}
+.box1 a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+.box3{
+	width: 230px;
+	height: 250px;
+	
+	float: right;
+	
+	margin-top: 25px;
+}
+
+
